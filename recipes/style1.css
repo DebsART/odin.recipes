@@ -1,0 +1,14 @@
+div{
+    text-align:center;
+
+}
+
+img{
+    height: auto;
+    width: 500px;
+    position: relative;left: 32%;
+}
+
+*{
+    background-color: lightblue;
+}
