@@ -1,0 +1,36 @@
+div{
+    text-align:center;
+    color:black;
+    background-color: transparent;
+    font-size: 50px;
+}
+
+div{
+    position: relative; top: 200px;
+}
+
+
+.first-link,
+.second-link,
+.third-link{
+    text-align:center;
+    color:white;
+    font-weight: bold;
+    background-color: transparent;
+    position: relative; top: 220px;
+}
+
+button{
+    background-color: blueviolet;
+    height: 30px;
+    width: 150px;
+}
+
+*{
+    background-color: lightblue;
+}
+
+img{
+    height: auto;
+    width: 1425px;
+}
