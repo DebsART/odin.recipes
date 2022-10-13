@@ -12,3 +12,25 @@ img{
 *{
     background-color: lightblue;
 }
+
+.subheader#top-subheader{
+    text-align:center;
+    color:blueviolet;
+    font-weight: bold;
+}
+
+.subheader{
+    color: blueviolet;
+}
+
+
+.description1,
+.description2{
+    color: black;
+    text-align:center;
+}
+
+ul {
+    padding-left: 43%;
+}
+
